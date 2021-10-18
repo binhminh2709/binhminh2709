@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m Blockchain Developer Freelancer, currently working on EDX Group Corporation.
+Blockchain- Substrate framework - Polkadot.
 <!--
 **binhminh2709/binhminh2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
